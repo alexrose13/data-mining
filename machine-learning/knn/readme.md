@@ -1,1 +1,2 @@
 A brief introduction to using the machine learning kNN algotirthim (k nearest-neighbor algorithim) to predict the class of a target by comparing it's features to a classified dataset with known features. This project will follow the methodology described in ["Machine Learning with R - Second Edition"](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-r-second-edition) and will be completed in R.
+More code to be added as this project progresses.
